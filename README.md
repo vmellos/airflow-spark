@@ -1,5 +1,8 @@
 # Airflow Spark
 
+### Post
+https://medium.com/data-arena/building-a-spark-and-airflow-development-environment-with-docker-f0b9b625edd8
+
 This project contains the following containers:
 
 * postgres: Postgres database for Airflow metadata and a Test database to test whatever you want.
